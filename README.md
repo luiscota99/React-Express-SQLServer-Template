@@ -3,5 +3,5 @@ Para instalar los node_modules, ejecutar en consola: \
 cd front \
 npm install \
 cd .. \
-cd front \
+cd back \
 npm install
