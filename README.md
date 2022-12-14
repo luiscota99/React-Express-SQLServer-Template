@@ -4,4 +4,4 @@ cd front \
 npm install \
 cd .. \
 cd front \
-npm install \
+npm install
